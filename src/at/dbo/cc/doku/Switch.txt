@@ -1,0 +1,24 @@
+- SWITCH
+
+ // Kurzform switch
+        switch (zufallszahl) {
+            case 5 -> System.out.println("Five");
+            case 6 -> System.out.println("Six");
+            case 7 -> System.out.println("Seven");
+            case 8 -> System.out.println("Eight");
+            case 9 -> System.out.println("Nine");
+            case 10 -> System.out.println("Ten");
+        }
+
+oder zusammenfassen:
+
+switch (zufallszahl) {
+                case 5:
+                case 6:
+		case 7:
+		case 8:
+                case 9:
+		case 10:
+                    System.out.println("");
+                    break;
+            }

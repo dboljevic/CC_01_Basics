@@ -1,0 +1,45 @@
+
+
+* * * * * * * * * *    M E R K E    * * * * * * * * * *
+
+        - Shortcuts
+
+        STRG + Leertaste = bekomme Vorschläge, was ich machen kann;
+
+
+
+        - Variablennamen
+
+        Vergebe klare Variablennamen: lieber längere, dafür klare Namen verwenden/vergeben: z.B.: amountOfChildren
+        hier sogenanntes "Camel Case" bzw. "lowerCamelCase" verwenden --> erster Buchstabe klein, danach bei jedem weiteren Wort mit Großbuchstabe beginnen;
+
+            übliche Nutzung:
+            - lowerCamelCase für Variablen und Methoden;
+            - UpperCamelCase für Klassen
+
+        Variablennamen können beinhalten: Buchstaben, Zahlen, _ und $-Zeichen
+        !!! Dürfen nicht mit Zahlen beginnen !!!
+
+
+        - testen, testen, testen !!!!
+            Baue viele SOUTs nach dem Coden ein, dann kann man die Fehler eingrenzen!
+
+
+         - DATENTYPEN
+           kleingeschrieben wie int, double, float, etc. =
+           GROSSGESCHRIEBEN wie INT, DOUBLE, STRING, etc. = Objekt bezogen;
+
+
+
+
+
+
+- STRING
+
+Ein String ist ein Array mit einzelnen char
+
+
+- METHODEN
+Was machen Methoden? Sie geben uns Werte, Antworten, etc. zurück. Daher benenne sie danach, was sie tun!!!
+Soll eine Methode was ausrechnen? Dann nenne sie zB "getResult" ......
+Soll eine Methode ein zufälliges Wort wiedergeben? Dann nenne sie zB "getRandomWord"
